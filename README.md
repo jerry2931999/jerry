@@ -1,2 +1,3 @@
 # jerry
 GAMER
+learner
